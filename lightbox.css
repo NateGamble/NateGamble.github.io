@@ -1,11 +1,17 @@
 body {
-  background-color: #fffff;
+  background-color: dimgrey;
 }
 h1 {
-  color: blue;
+  color: white;
+}
+h2 {
+  color: white;
+}
+h4 {
+  color: white;
 }
 p {
-  color: black;
+  color: white;
 }
 
 /* Top Navigation Bar */
