@@ -15,11 +15,7 @@ p {
 }
 
 /* Change Link color */
-a:link {
-  color: lightblue;
-}
-
-a:visited {
+a, a:link, a:visited {
   color: lightblue;
 }
 
