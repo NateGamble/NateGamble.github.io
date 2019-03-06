@@ -16,7 +16,7 @@ p {
 
 /* Change Link color */
 a, a:link, a:visited {
-  color: lightblue;
+  color: lightblue !important;
 }
 
 /* Top Navigation Bar */
