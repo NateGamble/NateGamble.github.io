@@ -14,6 +14,15 @@ p {
   color: white;
 }
 
+/* Change Link color */
+a:link {
+  color: lightblue;
+}
+
+a:visited {
+  color: lightblue;
+}
+
 /* Top Navigation Bar */
 
 /* Add a black background color to the top navigation */
