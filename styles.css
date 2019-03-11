@@ -183,6 +183,6 @@ img.hover-shadow {
 
 /*For splitting the screen into halves*/
 .half {
-  width: 50%;
+  width: 45%;
   display: table-cell;
 }
