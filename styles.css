@@ -1,6 +1,9 @@
 body {
+  /*background-color: dimgrey;*/
+  background-image: url("https://github.com/NateGamble/NateGamble.github.io/blob/master/OtherPics/matrixBackground.gif?raw=true");
+  background-repeat: no-repeat;
   background-color: dimgrey;
-  background-image: "https://github.com/NateGamble/NateGamble.github.io/blob/master/OtherPics/matrixBackground.gif?raw=true"
+  background-position: top;
 }
 h1 {
   color: white;
