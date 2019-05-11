@@ -1,12 +1,9 @@
 body {
-  /*background-color: dimgrey;*/
-  background-image: url("https://github.com/NateGamble/NateGamble.github.io/blob/master/OtherPics/matrixBackground.gif?raw=true");
-  background-repeat: no-repeat;
   background-color: dimgrey;
-  background-position: top;
 }
 h1 {
   color: white;
+  font-size: 400%
 }
 h2 {
   color: white;
@@ -51,6 +48,19 @@ a:link, a:visited {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+
+
+.intro {
+  background-image: url("https://github.com/NateGamble/NateGamble.github.io/blob/master/OtherPics/keyboardBackground.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
+
+  min-height: 720px;
+  /*min-width: 1280px;*/
+  max-width: 1920px;
+  max-height: 1080px;
 }
 
 
